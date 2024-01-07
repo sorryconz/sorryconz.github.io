@@ -1,9 +1,0 @@
-{
-  "run": {
-    "type": "task",
-    "url": "",
-    "file": "index.html",
-    "ignoreCurrent": false,
-    "task": ""
-  }
-}
